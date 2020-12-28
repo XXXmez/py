@@ -84,3 +84,20 @@ import this
 
 #конец 2 главы
 #начало 3 главы
+
+
+#3 Списки
+bicycles_one = ['trek', 'cannondale', 'redline', 'specialized']
+print(bicycles_one)
+#Обращение к элементам списка
+print(bicycles_one[2].title())
+print(bicycles_one[-1].title())
+
+#Использование отдельных элементов из списка
+bicycles_two = ['trek', 'cannondale', 'redline', 'specialized']
+message_bicycles_two = "My first bicycle was a " + bicycles_two[0].title() + "."
+print(message_bicycles_two)
+
+#Изменение, добавление и удаление элементов
+#Изменение элементов в списке
+#стр 51

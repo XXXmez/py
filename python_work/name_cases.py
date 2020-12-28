@@ -51,3 +51,25 @@ import this
 
 #конец 2 главы
 #начало 3 главы
+
+#УПРАЖНЕНИЯ
+#3-1
+names_friends = ['Ivan', 'Vladislav', 'Vitalik', 'Konstantin', 'Nikita']
+print(names_friends[0])
+print(names_friends[1])
+print(names_friends[2])
+print(names_friends[3])
+print(names_friends[4])
+
+#3-2
+print("Hello " + names_friends[0] + "how are you?")
+print("Hello " + names_friends[1] + "how are you?")
+print("Hello " + names_friends[2] + "how are you?")
+print("Hello " + names_friends[3] + "how are you?")
+print("Hello " + names_friends[4] + "how are you?")
+
+#3-3
+car_brand_name = ['BMW', 'KIA', 'FORD']
+print("The most manageable " + car_brand_name[0] + " car")
+print(car_brand_name[1] + " brand car is the future")
+print(car_brand_name[2] + " american car")
